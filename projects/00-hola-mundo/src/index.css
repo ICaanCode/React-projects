@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    background-color: #222;
+    font-family: system-ui;
+    display: grid;
+    place-content: center;
+    height: 100vh;
+}
+
+.followCard {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
